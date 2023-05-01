@@ -1,3 +1,4 @@
--Konsisten untuk tetap belajar coding walaupun kadang-kadang bingung
+-Konsisten untuk tetap belajar coding walaupun lelah
 -Harus membuat web 
 -Harus menjadi seorang full stuck web developer
+-Berkolaborasi dengan devloper lokal
